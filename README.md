@@ -4,7 +4,7 @@
 - pagina oficial para descargar python
 https://www.python.org/downloads/
 
-- para saber que version tienes al descargarlo.
+-version que tienes al descargarlo.
 ```sh
 python --version
 ```
