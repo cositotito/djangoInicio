@@ -1,6 +1,6 @@
 # INICIANDO CON DJANGO PYTHON 3.8.2
 
-# Descargar python e instalarlo Version actual
+# <h2>Descargar python e instalarlo Version actual </h2>
 
 - pagina oficial para descargar python
 https://www.python.org/downloads/
