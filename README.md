@@ -8,12 +8,12 @@ https://www.python.org/downloads/
 python --version
 ```
 
-<h1> Descargar env para python. </h1>
+- Descargar env para python.
 ```sh
 pip install env
 ```
 
-<h1> Generando entorno en tu carpeta preferida.</h1>
+- Generando entorno en tu carpeta preferida.
 ```sh
 python -m venv env
 ```
