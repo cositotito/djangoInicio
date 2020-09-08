@@ -30,8 +30,7 @@ source env/Scripts/activate
 source env/bin/activate
 ```
 
-
-<h1> Descargar django en el entorno virtual.</h1>
+# Descargar django en el entorno virtual.
 ```sh
 pip install django
 ```
